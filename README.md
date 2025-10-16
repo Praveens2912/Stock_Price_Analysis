@@ -1,6 +1,7 @@
 📈 Stock Price Analysis Project
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-yellow?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
