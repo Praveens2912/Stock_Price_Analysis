@@ -44,7 +44,7 @@ streamlit run app.py
 ```
 Once the server starts, open your browser and visit:
 
-[http://localhost:8502/](http://localhost:8503/)
+http://localhost:8501/
 
 ## 📊 Business Questions Solved
 
