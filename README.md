@@ -40,7 +40,7 @@ Users can filter companies, adjust timeframes, and view analytical charts direct
 Since Streamlit runs locally during development, you can launch the dashboard by executing the following command in your terminal:
 
 ```bash
-streamlit run app.py
+Streamlit run App2.py
 ```
 Once the server starts, open your browser and visit:
 
